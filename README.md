@@ -1,3 +1,3 @@
 # shop
 
-Creation of multi-page shop using HTML, CSS, Javascript.
+Creation of multi-page shop using HTML, SCSS, Javascript.
